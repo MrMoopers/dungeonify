@@ -1,0 +1,28 @@
+{
+	"format": 0.2,
+	"resolution": {
+		"map_origin": {
+			"x": 0,
+			"y": 0
+		},
+		"map_size": {
+			"x": (WIDTH_INCHES),
+			"y": (HEIGHT_INCHES)
+		},
+		"pixels_per_grid": (PIXELS_PER_INCH)
+	},
+	"line_of_sight": [
+		(WALLS)
+	],
+	"portals": [
+		(PORTALS)
+	],
+	"environment": {
+		"baked_lighting": true,
+		"ambient_light": "ffffffff"
+	},
+	"lights": [
+		(LIGHTS)
+	],
+	"image": "(IMAGE)"
+}
