@@ -4,11 +4,11 @@ A system for creating Dungeons & Dragons battle maps from a real-world OpenStree
 
 ## Video
 
-See an example video [here](https://youtu.be/4w4NHVjjUms)
+See an example video [here](https://youtu.be/4w4NHVjjUms).
 
 ## Report
 
-See the report [here](docs/Dungeonify.pdf)
+See the report [here](docs/Dungeonify.pdf).
 
 ## Acknowledgements
 
