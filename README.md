@@ -1,4 +1,4 @@
-# Dungeonify
+# Dungeonify: Generating Dungeons & Dragons Battle Maps from OpenStreetMap 
 
 A system for creating Dungeons & Dragons battle maps from a real-world OpenStreetMap scene.  
 
